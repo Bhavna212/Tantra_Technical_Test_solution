@@ -1,0 +1,10 @@
+a = {1,2,3,4,5}
+
+print("Maximum Number is:" ,max(a))
+print("Minimum Number is:" ,min(a))
+
+b = {5,3,7,4,2}
+
+
+print("Maximum Number is:" ,max(b))
+print("Minimum Number is:" ,min(b))
