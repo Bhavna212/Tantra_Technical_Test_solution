@@ -1,0 +1,11 @@
+a = input("Enter any string here:")
+b = a[::-1]
+
+def palindrome():
+    if a == b:
+        return True
+    else:
+        return False
+    
+c = palindrome()  
+print(c) 
